@@ -95,8 +95,7 @@ const Home = () => {
 
   return (
     <div>
-      <h1>Todos</h1>
-
+      <h1>My Todos</h1>
       <input
         type="text"
         placeholder="write your todo"
