@@ -1,0 +1,2 @@
+username= shubhamshroff0810, password = shubham0810$,
+mongodb+srv://shubhamshroff0810:shubham0810$@cluster0.q4yjpca.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
